@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Imade Nweke, an aspiring product manager curre
   
 - 🌱 I’m currently learning the ropes of product management through a certification course.
   
-- 💞️ I’m looking to collaborate on projects related to product management, data analysis, social media and digital marketing and any exciting opportunities that align with my interests.
+- 💞️ I’m looking to collaborate on projects related to product management, data analysis, social media and digital marketing, and any exciting opportunities that align with my interests.
   
 - 📫 How to reach me: Feel free to drop me an email at nwekeimade@gmail.com or connect on [(https://www.linkedin.com/in/nweke-imade-88abb2b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))].
  
